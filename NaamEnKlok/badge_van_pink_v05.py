@@ -18,7 +18,7 @@ print("Dat is nodig omdat anders het scherm het een tweede keer niet doet")
 # lijn_letters.py
 
 #Je kan https://fri3dcamp.github.io/viper/ (gebruik Chrome of Chromium, niet Firefox!) gebruiken om deze file (of de inhoud) op je badge te zetten en te runnen
-#Je kan ook 
+#Je kan ook Thonny gebruiken (Thonny is gratis).
 
 #eerst importeren wat we nodig hebben
 #voor de ledjes
